@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+scipy
+pandas
+numpy
